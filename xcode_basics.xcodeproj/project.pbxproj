@@ -17,6 +17,7 @@
 		258C2CC12761536A003BB3D9 /* xcode_basicsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 258C2CC02761536A003BB3D9 /* xcode_basicsTests.swift */; };
 		258C2CCB2761536A003BB3D9 /* xcode_basicsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 258C2CCA2761536A003BB3D9 /* xcode_basicsUITests.swift */; };
 		258C2CCD2761536A003BB3D9 /* xcode_basicsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 258C2CCC2761536A003BB3D9 /* xcode_basicsUITestsLaunchTests.swift */; };
+		258C2CDA2761604F003BB3D9 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 258C2CD92761604E003BB3D9 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		258C2CC62761536A003BB3D9 /* xcode_basicsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = xcode_basicsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		258C2CCA2761536A003BB3D9 /* xcode_basicsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xcode_basicsUITests.swift; sourceTree = "<group>"; };
 		258C2CCC2761536A003BB3D9 /* xcode_basicsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xcode_basicsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		258C2CD92761604E003BB3D9 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				258C2CA627615365003BB3D9 /* AppDelegate.swift */,
 				258C2CA827615365003BB3D9 /* SceneDelegate.swift */,
 				258C2CAA27615365003BB3D9 /* ViewController.swift */,
+				258C2CD92761604E003BB3D9 /* SecondViewController.swift */,
 				258C2CAC27615365003BB3D9 /* Main.storyboard */,
 				258C2CB227615369003BB3D9 /* Assets.xcassets */,
 				258C2CB427615369003BB3D9 /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 				258C2CB127615365003BB3D9 /* xcode_basics.xcdatamodeld in Sources */,
 				258C2CAB27615365003BB3D9 /* ViewController.swift in Sources */,
 				258C2CA727615365003BB3D9 /* AppDelegate.swift in Sources */,
+				258C2CDA2761604F003BB3D9 /* SecondViewController.swift in Sources */,
 				258C2CA927615365003BB3D9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
